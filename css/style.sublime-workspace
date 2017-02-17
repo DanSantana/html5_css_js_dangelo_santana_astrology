@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"animation-fill-mode"
+			],
+			[
+				"border-s",
+				"border-image-slice"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"padin",
+				"padding-right"
+			],
+			[
+				"bo",
+				"border-image"
+			],
+			[
+				"cen",
+				"justify-content"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"ca",
+				"caption	Tag"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"tex",
+				"text-rendering"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"sha",
+				"box-shadow"
+			],
+			[
+				"Pa",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"head",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/Zodiac Signs.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/Index.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/css/style.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/ZodiacCharacteristcs.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/signsTraits.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/Horoscope.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/ZodiacSigns.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/EXTRA CLASS MATERIAL/CDI PTCE_01/HTML5/GoogleGlass-Project/GoogleGlass-Project/projeto-glass-html5/index.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/EXTRA CLASS MATERIAL/CDI PTCE_01/HTML5/GoogleGlass-Project/GoogleGlass-Project/projeto-glass-html5/fotos.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/EXTRA CLASS MATERIAL/CDI PTCE_01/HTML5/GoogleGlass-Project/GoogleGlass-Project/projeto-glass-html5/_css/fotos.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/OrionStructur.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/js/function.jsx",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/EXTRA CLASS MATERIAL/CDI PTCE_01/HTML5/GoogleGlass-Project/GoogleGlass-Project/projeto-glass-html5/_css/estilo.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/Primeiro-layout.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/style.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/Estrutura.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/structurHtml",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/Primeiro-Estilo.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/structurHtml.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/Segundo.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/Listas.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/CursoEmVideo/GoogleGlass-Project/projeto-glass-html5/_css/estilo.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/CursoEmVideo/GoogleGlass-Project/projeto-glass-html5/_css/_DS_Store",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/CursoEmVideo/GoogleGlass-Project/projeto-glass-html5/_css/form.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/CursoEmVideo/GoogleGlass-Project/projeto-glass-html5/_css/fotos.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/CursoEmVideo/GoogleGlass-Project/projeto-glass-html5/_css/media.css",
+		"/C/Users/ff/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	\n",
+			"p",
+			"-->",
+			"Hesitant",
+			"Horoscope",
+			"muda",
+			"mudafoto",
+			"rig",
+			"rig	",
+			"Astrology",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

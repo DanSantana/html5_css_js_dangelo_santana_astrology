@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"s",
+				"switch"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"data",
+				"datalist	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"max",
+				"maxlength	Attr"
+			],
+			[
+				"min",
+				"minlength	Attr"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"im",
+				"animation-fill-mode"
+			],
+			[
+				"border-s",
+				"border-image-slice"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"padin",
+				"padding-right"
+			],
+			[
+				"bo",
+				"border-image"
+			],
+			[
+				"cen",
+				"justify-content"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"ca",
+				"caption	Tag"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"tex",
+				"text-rendering"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"sha",
+				"box-shadow"
+			],
+			[
+				"Pa",
+				"padding-top"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"head",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Index.html",
+			"settings":
+			{
+				"buffer_size": 4536,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 2518,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "userFrom.html",
+			"settings":
+			{
+				"buffer_size": 5327,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/formcss.css",
+			"settings":
+			{
+				"buffer_size": 1100,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/signs"
+	],
+	"file_history":
+	[
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/css/style.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/css/formcss.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/userFrom.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/jvscript/funcoes.js",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/Zodiac Signs.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/KeyElementsSpec.xlsx",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/Index.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/signsTraits.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/ZodiacCharacteristcs.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/Horoscope.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/ZodiacSigns.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/EXTRA CLASS MATERIAL/CDI PTCE_01/HTML5/GoogleGlass-Project/GoogleGlass-Project/projeto-glass-html5/index.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/EXTRA CLASS MATERIAL/CDI PTCE_01/HTML5/GoogleGlass-Project/GoogleGlass-Project/projeto-glass-html5/fotos.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/EXTRA CLASS MATERIAL/CDI PTCE_01/HTML5/GoogleGlass-Project/GoogleGlass-Project/projeto-glass-html5/_css/fotos.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/DWAE v2-0 DangeloSantana 635-048018/OrionStructur.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - WEB DEVELOPING APPLICATION/js/function.jsx",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/EXTRA CLASS MATERIAL/CDI PTCE_01/HTML5/GoogleGlass-Project/GoogleGlass-Project/projeto-glass-html5/_css/estilo.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/Primeiro-layout.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/style.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/Estrutura.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/structurHtml",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/Primeiro-Estilo.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/structurHtml.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/Segundo.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/rBtch/Listas.html",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/CursoEmVideo/GoogleGlass-Project/projeto-glass-html5/_css/estilo.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/CursoEmVideo/GoogleGlass-Project/projeto-glass-html5/_css/_DS_Store",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/CursoEmVideo/GoogleGlass-Project/projeto-glass-html5/_css/form.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/CursoEmVideo/GoogleGlass-Project/projeto-glass-html5/_css/fotos.css",
+		"/D/_PROGRAMANALYSIS DANGELO SANTANA/14 - DEVELOPING WEB APPLICATION/CursoEmVideo/GoogleGlass-Project/projeto-glass-html5/_css/media.css",
+		"/C/Users/ff/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h3",
+			"Date",
+			"section",
+			"div",
+			"	\n",
+			"p",
+			"-->",
+			"Hesitant",
+			"Horoscope",
+			"muda",
+			"mudafoto",
+			"rig",
+			"rig	",
+			"Astrology",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3450,
+								3453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1357.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2345,
+								2304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3913.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "userFrom.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/formcss.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DWAE_DangeloSantana_CDIcollege_Exercice.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
